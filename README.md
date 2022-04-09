@@ -9,6 +9,7 @@ One of the options:
 1) sign up for https://www.mongodb.com/;
 2) create your cluster;
 3) copy url.
+
 Then paste your Url to file "default.json" in folder "config" in place "<paste your MongoDB URL>".
 Also paste your Url to file "app.json" in place "<paste your MongoDB URL>".
 
