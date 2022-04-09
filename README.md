@@ -11,7 +11,7 @@ One of the options:
 3) copy url.
 
 Then paste your Url to file "default.json" in folder "config" in place `<paste your MongoDB URL>`.
-Also paste your Url to file "app.json" in place `<paste your MongoDB URL>`.
+Also paste your Url to file "app.js" in place `<paste your MongoDB URL>`.
 
 Assuming you'll have Node.js already installed, go with following steps to get the app working:
 1) In project directory: Run `npm install`;
