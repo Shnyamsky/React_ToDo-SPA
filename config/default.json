@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "lab 5 and 6 web",
+    "baseUrl": "http://localhost:5000",
+    "mongoUri": "<paste your MongoDB URL>"
+}
